@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ciclo-de-vida/precache-manifest.2f0de1d5e7f25a250d8aade461ade0cc.js"
+  "/ciclo-de-vida/precache-manifest.d3f661944d99b53b339bf237cbd76204.js"
 );
 
 self.addEventListener('message', (event) => {
