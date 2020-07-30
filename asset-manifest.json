@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ciclo-de-vida/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ciclo-de-vida/static/js/main.2dbb5dc0.chunk.js",
+    "main.js.map": "/ciclo-de-vida/static/js/main.2dbb5dc0.chunk.js.map",
+    "runtime-main.js": "/ciclo-de-vida/static/js/runtime-main.e7bfc945.js",
+    "runtime-main.js.map": "/ciclo-de-vida/static/js/runtime-main.e7bfc945.js.map",
+    "static/js/2.67ac8b45.chunk.js": "/ciclo-de-vida/static/js/2.67ac8b45.chunk.js",
+    "static/js/2.67ac8b45.chunk.js.map": "/ciclo-de-vida/static/js/2.67ac8b45.chunk.js.map",
+    "index.html": "/ciclo-de-vida/index.html",
+    "precache-manifest.2f0de1d5e7f25a250d8aade461ade0cc.js": "/ciclo-de-vida/precache-manifest.2f0de1d5e7f25a250d8aade461ade0cc.js",
+    "service-worker.js": "/ciclo-de-vida/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ciclo-de-vida/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.67ac8b45.chunk.js.LICENSE.txt": "/ciclo-de-vida/static/js/2.67ac8b45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7bfc945.js",
+    "static/js/2.67ac8b45.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2dbb5dc0.chunk.js"
+  ]
+}
